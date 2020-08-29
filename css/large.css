@@ -1,0 +1,21 @@
+@media screen and (min-width: 1140px) {
+    
+    nav ul {
+        padding-left: 2%;
+    }
+    nav li {
+        width: 15%;
+    }
+    nav a {
+        padding: .5rem 1rem;
+    }
+
+    main figure {
+        width: 25%;
+    }
+
+    div {
+        column-count: 3;
+    }
+    
+} /* end of media query */
